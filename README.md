@@ -1,2 +1,8 @@
 # branch-prune-test-repo1
-Release branch
+release-branch
+trunk
+development
+develop
+dev
+gh-pages
+devel
